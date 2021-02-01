@@ -22,4 +22,8 @@
 ## remote status
 - git remote -v
 ## cloning existing repository
-- get clone "repository link"
+- get clone "repository link" foldername
+## undoing changes
+- git restore file name (uncommited changes)
+- git revert file name (commited changes)
+- git reset id (reseting committes)
